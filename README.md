@@ -1,4 +1,4 @@
-## 🌐 Socials:
+## 🌐 Contact:
 Email: contact@maksymiliangala.com<br>
 Discord: maxidragon#7256<br>
 
