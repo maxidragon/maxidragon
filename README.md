@@ -4,7 +4,7 @@ Discord: maxidragon<br>
 
 ## About me
 
-I'm 18 years old fullstack web developer from Poland.
+I'm 19 years old fullstack web developer from Poland.
 
 ![Arch](https://img.shields.io/badge/linux%20distro-arch-blue.svg?style=for-the-badge&logo=arch-linux)
 
