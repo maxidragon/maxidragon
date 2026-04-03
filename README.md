@@ -4,7 +4,7 @@ Discord: maxidragon<br>
 
 ## About me
 
-I'm 19 years old fullstack web developer from Poland.
+I'm a fullstack web developer from Poland. Currently working on [FKMTime](https://github.com/FKMTime/FKMTime) project. 
 
 ![Arch](https://img.shields.io/badge/linux%20distro-arch-blue.svg?style=for-the-badge&logo=arch-linux)
 
